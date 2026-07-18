@@ -1,0 +1,19 @@
+RESUME PLACEMENT INSTRUCTIONS
+==============================
+
+Place your resume PDF file in this folder with the exact filename:
+
+  Nardos_Shumete_Resume.pdf
+
+Full path expected by the website:
+
+  assets/resume/Nardos_Shumete_Resume.pdf
+
+The "View Resume" button will open it in a new browser tab.
+The "Download Resume" button will trigger a direct download.
+
+Make sure to add and commit the PDF before pushing to GitHub:
+
+  git add assets/resume/Nardos_Shumete_Resume.pdf
+  git commit -m "Add resume PDF"
+  git push
